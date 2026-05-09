@@ -1,5 +1,5 @@
-# 원예장비 제조업체 총괄생산계획 (APP: Aggregate Production Planning)
-
+# 원예장비 제조업체 총괄생산계획
+- 총괄생산계획(Aggregate Production Planning)
 - 2026-1 스마트제조 과제
 - Pyomo 기반 최적화 + Streamlit 대시보드
 
